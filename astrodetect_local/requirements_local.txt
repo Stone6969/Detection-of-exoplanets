@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+astropy
+batman-package
+matplotlib
+scikit-learn
+torch
